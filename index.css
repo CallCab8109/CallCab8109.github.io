@@ -1,8 +1,6 @@
-body {
-    background-image: url(./img123.jpg);
-    background: no-repeat;
-}
 
 h1 {
+    background-image: url(./img123.jpg);
+    background: no-repeat;
     color: navajowhite
 }
