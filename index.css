@@ -3,10 +3,7 @@ body {
     background: no-repeat;
 }
 
-#id {
-    color: navajowhite;
-}
-
-.id {
-    color: blanchedalmond;
+h1 {
+    background-color: navajowhite;
+    color: navajowhite
 }
